@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+          <meta charset="UTF-8">
+          <meta http-equiv="X-UA-Compatible" content="IE=edge">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <link rel="stylesheet" href="css/style.css">
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css" integrity="sha512-MV7K8+y+gLIBoVD59lQIYicR65iaqukzvf/nwasF0nqhPay5w/9lJmVM2hMDcnK1OnMGCdVK+iQrJ7lzPJQd1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+          <title>Portfolio</title>
+</head>
+
+<body>
+          <div id="header">
+                    <div class="profile">
+                              <img src="images/profile.png" height="400px">
+                    </div>
+                    <div class="container">
+                              <nav>
+                                        <img src="images/David.png" class="logo">
+                                        <ul id="sidemenu">
+                                                  <li><a href="#header">Home</a></li>
+                                                  <li><a href="#about">About</a></li>
+                                                  <li><a href="#projects">Projects</a></li>
+                                                  <li><a href="#contact">Contact</a></li>
+                                                  <i class="fa-solid fa-xmark" onclick="closemenu()"></i> <!-- Mobile menu -->
+                                        </ul>
+                                        <i class="fa-solid fa-bars" onclick="openmenu()"></i> <!-- Mobile menu -->
+                              </nav>
+                              <div class="header-text">
+                                        <p>Developer in training</p>
+                                        <h1>Hi, I'm <span>David</span><br> Cuahonte Cuevas</h1>
+                              </div>
+                    </div>
+          </div>
+          <!-- About -->
+          <div id="about">
+                    <div class="container">
+                              <div class="row"></div>
+                              <div class="about-col-1">
+                                        <h1 class="sub-title">About Me</h1>
+                                        <p>
+                                                  I am a 20 year old student at ALGOSUP, a french university specialized in
+                                                  computer science. I am currently in my second year of studies. I am passionate about
+                                                  computer science and I am always looking for new challenges. I am currently specializing
+                                                  in web development because I enjoy creating web pages that fits the client's needs , but I am also interested in software development. 
+                                        </p>
+                                        <div class="tab-titles">
+                                                  <p class="tab-links active-link" onclick="opentab('skills')">Skills
+                                                  </p>
+                                                  <p class="tab-links" onclick="opentab('education')">Education</p>
+                                        </div>
+                                        <div class="tab-contents active-tab" id="skills">
+                                                  <ul>
+                                                            <li><span>HTML/CSS</span><br>Web development</li>
+                                                            <li><span>3D Game creation</span><br>Unity Knowledge</li>
+                                                            <li><span>C#</span><br>Software development</li>
+
+                                                  </ul>
+                                        </div>
+                                        <div class="tab-contents" id="education">
+                                                  <ul>
+                                                            <li><span>High School Edouard
+                                                                                Vaillant</span><br>BACCALAUREAT EUROPEAN
+                                                                      2020</li>
+                                                            <li><span> Cambridge English</span><br>Official Cambridge C1
+                                                                      certification 2020</li>
+                                                            <li><span>ALGOSUP</span><br>University studies 2021-Present
+                                                            </li>
+
+                                                  </ul>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+          <!-- Projects -->
+          <div id="projects">
+                    <div class="container">
+                              <h1 class="sub-title">My Projects</h1>
+                              <div class="project-list">
+                                        <div class="project">
+                                                  <img src="images/santa.png" width="500">
+                                                  <div class="layer">
+                                                            <h3>Santa countdown website</h3>
+                                                            <p>This website let's you know exactly when santa will come to your selected address.
+                                                            </p>
+                                                            <a href="https://github.com/algosup/2022-2023-project-2-santa-time-Project-7-group"><i class="fa-solid fa-link"></i></a>
+                                                  </div>
+                                        </div>
+                                        <div class="project">
+                                                  <img src="images/B3.png" width="500">
+                                                  <div class="layer">
+                                                            <h3>Building simulation in Unity(VR)</h3>
+                                                            <p> This application will let you visit the future building of ALGOSUP in VR.
+                                                            </p>
+                                                            <a href="https://github.com/Louis-de-Lavenne-de-Choulot/ALGOSUP_2022_Project_4_F"><i class="fa-solid fa-link"></i></a>
+                                                  </div>
+                                        </div>
+                                        <div class="project">
+                                                  <img src="images/hex.png" width="500">
+                                                  <div class="layer">
+                                                            <h3>Hexgame in C#</h3>
+                                                            <p>This application is a recreation of the Hexgame in C#.
+                                                            </p>
+                                                            <a href="https://github.com/MaximePagesAlgoSup/HexBlock"><i class="fa-solid fa-link"></i></a>
+                                                  </div>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+          <!-- Contact -->
+
+          <div id="contact">
+                    <div class="container">
+                              <div class="row">
+                                        <div class="contact-left">
+                                                  <h1 class="sub-title">Contact me</h1>
+                                                  <p><i class="fa-regular fa-paper-plane"></i> davidcc812@gmail.com</p>
+                                                  <p><i class="fa-sharp fa-solid fa-phone"></i> 06 30 30 01 81</p>
+                                                  <div class="social-icons">
+                                                            <a href="https://www.facebook.com/" target="_blank"><i class="fa-brands fa-facebook"></i></a>
+                                                            <a href="https://twitter.com/" target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                                                            <a href="https://www.instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a>
+                                                            <a href="https://www.linkedin.com/in/david-cuahonte-527781221/" target="_blank"><i class="fa-brands fa-linkedin"></i></a>
+                                                  </div>
+                                                  <a href="images/_Cream Minimalist Resume.pdf" download class="btn btn2">Download CV</a>
+                                        </div>
+                                        <div class="contact-right">
+                                                  <form name="submit-to-google-sheet">
+                                                            <input type="text" name="Name" placeholder="Your Name" required>
+                                                            <input type="email" name="Email" placeholder="Your Email" required>
+                                                            <textarea name="Message" rows="6" placeholder="Your Message"></textarea>
+                                                            <button type="submit" class="btn btn2">Submit</button>
+                                                  </form>
+                                                  <span id="msg"></span>
+                                        </div>
+                              </div>
+                    </div>
+          </div>
+          <div class="footer">
+                    <p>Site Created by David Cuahonte Cuevas</p>
+          </div>
+</body>
+<script src="./Js/form.js"></script>
+<script src="./Js/links.js"></script>
+<script src="./Js/sidemenu.js"></script>
+
+</html>
