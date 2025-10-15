@@ -49,11 +49,12 @@ I’m seeking new opportunities to contribute to meaningful projects and continu
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="[https://www.linkedin.com/in/davidcuahonte/](https://www.linkedin.com/in/david-alejandro-cuahonte-cuevas-527781221/)">
+  <a href="https://www.linkedin.com/in/david-alejandro-cuahonte-cuevas-527781221/" target="_blank">
     <img align="center" alt="LinkedIn" height="30" width="40"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
 </p>
+
 
 ---
 
