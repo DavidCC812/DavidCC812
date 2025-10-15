@@ -8,8 +8,7 @@
 - 👯 Open to collaborating on **Kotlin, Java, Spring, React, or D3** projects.
 - 💬 Ask me about **Jetpack Compose, ViewModels/StateFlow, and Spring Security (JWT)**.
 - 📫 Reach me at **davidcc812@gmail.com**
-- ⚡ Fun fact: I love turning accessibility problems into elegant, scalable code.
-
+- ⚡ Fun fact: I started programming after getting interested in fixing everyday problems through code, and since then, my greatest passion has been computer science. 🧱
 ---
 
 <details>
