@@ -3,12 +3,12 @@
 
 ---
 
-- 🔭 I’m building **Inclusive Trip Planner** (Android/Jetpack Compose + Spring Boot/PostgreSQL).
-- 🌱 Currently learning **CI/CD on Render**, **JWT security**, and **Compose best practices**.
-- 👯 Open to collaborate on **Kotlin, Java, Spring, React, D3** projects.
-- 💬 Ask me about **Jetpack Compose, ViewModels/StateFlow, Spring Security (JWT)**.
-- 📫 Reach me at **david.cuahonte@…** (fill yours)
-- ⚡ Fun fact: I love turning accessibility problems into elegant code.
+- 🎓 I recently completed **Inclusive Trip Planner**, a full-stack accessibility-focused travel app built with **Android (Jetpack Compose)** and **Spring Boot/PostgreSQL**, deployed using **Docker** and **Render**.
+- 🌱 Currently expanding my knowledge in **CI/CD**, **cloud deployment**, and **clean architecture**.
+- 👯 Open to collaborating on **Kotlin, Java, Spring, React, or D3** projects.
+- 💬 Ask me about **Jetpack Compose, ViewModels/StateFlow, and Spring Security (JWT)**.
+- 📫 Reach me at **davidcc812@gmail.com**
+- ⚡ Fun fact: I love turning accessibility problems into elegant, scalable code.
 
 ---
 
@@ -31,20 +31,26 @@
 </details>
 
 <details>
-  <summary>ℹ️ About Me</summary>
+  <summary>⚡ About Me</summary>
 
-I’m a developer focused on accessibility and practical, testable code. Recent work:
-- Native **Android** app (Jetpack Compose) connected to a **Spring Boot** API with **JWT**.
-- Integration tests with **H2**, **MockMvc**, and a clean layered architecture (DTO → Service → Repo).
-- Deployed backend with **Docker** and **PostgreSQL**; frontend connected to live data.
+Hello! I’m **David Alejandro Cuahonte Cuevas**, a young Full Stack Developer with a background in cross-platform application development and early professional experience in Agile environments.
 
+I recently graduated and am currently pursuing a **Master’s in Advanced Software Engineering** to further strengthen my expertise in front-end, back-end, and cloud technologies.
+
+During my last position, I collaborated within a multidisciplinary team on an **Angular web application**, contributing to feature development, unit testing, and version control improvements using Git and GitHub. This experience helped me grow technically while adapting rapidly to a professional workflow.
+
+My journey has led me to work with various **languages** (Java, Python, TypeScript), **frameworks** (Angular, Flutter, Spring), and **tools** (GitHub Actions, Docker, Google Cloud, PostgreSQL).
+
+I’m fluent in **Spanish (native)**, **French**, **English**, and **Italian**, with basic knowledge of **German**.
+
+I’m seeking new opportunities to contribute to meaningful projects and continue evolving in technically challenging environments.
 </details>
 
 ---
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-handle/">
+  <a href="[https://www.linkedin.com/in/davidcuahonte/](https://www.linkedin.com/in/david-alejandro-cuahonte-cuevas-527781221/)">
     <img align="center" alt="LinkedIn" height="30" width="40"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />
   </a>
@@ -60,6 +66,6 @@ I’m a developer focused on accessibility and practical, testable code. Recent 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40" height="40" alt="Spring"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
 </p>
