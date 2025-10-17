@@ -90,6 +90,11 @@ I’m seeking new opportunities to contribute to meaningful projects and continu
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite"/>
 </p>
 
+---
+
 <h3 align="left">Currently Listening:</h3>
+  
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=o66icv9rzsvjo50locqc6zw1c&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=o66icv9rzsvjo50locqc6zw1c&redirect=true)
+---
+
 
