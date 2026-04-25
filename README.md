@@ -95,6 +95,7 @@ I’m seeking new opportunities to contribute to meaningful projects and continu
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
+
 ---
 
 <h3 align="left">Currently Listening:</h3>
